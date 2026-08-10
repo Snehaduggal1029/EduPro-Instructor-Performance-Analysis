@@ -1,0 +1,1201 @@
+TransactionID,UserID,CourseID,TransactionDate,Amount,CourseCategory,CourseType,CourseLevel,CoursePrice,CourseDuration,CourseRating,TeacherID,Expertise,YearsOfExperience,TeacherRating,RatingTier_x,RatingTier_y,RatingTier
+TR00001,U0041,C035,2024-10-16,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00002,U0021,C019,2023-04-25,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00003,U0001,C035,2023-01-26,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00004,U0127,C046,2023-10-09,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00005,U0007,C032,2023-09-08,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00006,U0096,C027,2023-08-17,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00007,U0150,C013,2023-05-23,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00008,U0137,C001,2023-04-15,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00009,U0101,C023,2024-11-23,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00010,U0082,C036,2024-07-12,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00011,U0171,C042,2023-03-31,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00012,U0135,C046,2024-08-27,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00013,U0118,C018,2024-03-08,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00014,U0066,C048,2023-02-02,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00015,U0149,C012,2023-01-31,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00016,U0043,C006,2023-04-06,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00017,U0006,C001,2023-08-12,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00018,U0100,C001,2023-08-27,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00019,U0165,C020,2024-06-01,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00020,U0035,C038,2024-09-08,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00021,U0166,C024,2023-01-28,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00022,U0128,C034,2024-07-28,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00023,U0170,C037,2023-07-23,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00024,U0118,C010,2024-10-27,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00025,U0173,C024,2024-12-19,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00026,U0017,C043,2024-07-12,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00027,U0047,C015,2024-03-05,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00028,U0120,C006,2023-08-14,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00029,U0032,C004,2024-04-04,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00030,U0157,C042,2024-08-26,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00031,U0097,C004,2023-10-12,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00032,U0016,C022,2023-01-07,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00033,U0103,C033,2023-06-13,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00034,U0182,C040,2024-12-15,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00035,U0162,C009,2024-03-08,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00036,U0086,C030,2023-12-15,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00037,U0147,C023,2023-10-12,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00038,U0081,C045,2023-06-09,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00039,U0142,C018,2023-08-09,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00040,U0135,C048,2023-12-11,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00041,U0100,C036,2023-04-15,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00042,U0072,C029,2023-04-05,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00043,U0166,C048,2024-01-25,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00044,U0174,C037,2023-04-10,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00045,U0150,C027,2024-01-03,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00046,U0014,C035,2023-12-19,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00047,U0182,C036,2024-09-10,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00048,U0046,C017,2023-09-28,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00049,U0025,C020,2023-02-14,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00050,U0106,C043,2024-04-15,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00051,U0055,C015,2024-07-03,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00052,U0084,C043,2023-05-08,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00053,U0003,C022,2024-01-23,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00054,U0116,C001,2023-03-22,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00055,U0010,C015,2024-07-19,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00056,U0142,C003,2023-10-28,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00057,U0069,C006,2024-10-05,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00058,U0007,C003,2024-09-25,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00059,U0090,C006,2024-01-06,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00060,U0127,C049,2024-08-14,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00061,U0026,C038,2023-07-16,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00062,U0166,C045,2024-12-22,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00063,U0067,C012,2023-03-13,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00064,U0043,C010,2023-02-16,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00065,U0021,C033,2024-11-08,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00066,U0043,C043,2023-08-22,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00067,U0050,C038,2023-10-24,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00068,U0107,C014,2023-03-23,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00069,U0129,C015,2023-08-27,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00070,U0131,C012,2023-04-14,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00071,U0118,C005,2024-01-25,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00072,U0200,C022,2023-10-12,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00073,U0025,C020,2024-04-09,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00074,U0018,C022,2024-10-12,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00075,U0173,C021,2024-01-09,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00076,U0170,C017,2023-06-16,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00077,U0067,C016,2024-01-15,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00078,U0068,C027,2023-12-30,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00079,U0114,C042,2023-08-03,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00080,U0012,C005,2024-11-17,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00081,U0132,C045,2023-10-01,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00082,U0079,C034,2024-12-19,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00083,U0179,C024,2024-11-30,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00084,U0065,C027,2024-10-25,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00085,U0162,C005,2023-03-15,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00086,U0056,C010,2024-09-15,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00087,U0117,C035,2024-10-12,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00088,U0121,C040,2023-06-25,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00089,U0027,C003,2024-06-30,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00090,U0188,C026,2023-09-08,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00091,U0009,C034,2023-06-17,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00092,U0171,C026,2024-04-18,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00093,U0067,C050,2024-01-24,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00094,U0033,C019,2023-10-04,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00095,U0070,C047,2024-10-17,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00096,U0164,C020,2024-12-05,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00097,U0141,C031,2024-07-24,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00098,U0014,C002,2023-08-13,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00099,U0169,C014,2024-12-02,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00100,U0067,C044,2023-11-29,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00101,U0192,C009,2023-02-27,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00102,U0021,C038,2023-08-23,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00103,U0095,C024,2023-02-02,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00104,U0053,C028,2023-11-20,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00105,U0192,C008,2024-02-15,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00106,U0063,C045,2023-10-02,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00107,U0117,C050,2023-03-09,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00108,U0155,C023,2023-08-05,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00109,U0020,C006,2024-08-03,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00110,U0157,C045,2023-11-19,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00111,U0028,C011,2023-08-06,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00112,U0117,C034,2024-11-02,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00113,U0082,C028,2024-05-26,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00114,U0098,C041,2024-02-10,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00115,U0001,C037,2024-10-20,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00116,U0001,C017,2024-04-14,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00117,U0161,C021,2023-05-27,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00118,U0049,C046,2023-09-29,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00119,U0108,C030,2023-05-23,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00120,U0106,C041,2023-09-10,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00121,U0008,C011,2024-07-28,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00122,U0182,C008,2024-07-05,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00123,U0007,C007,2023-09-27,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00124,U0167,C037,2024-08-21,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00125,U0012,C035,2024-03-14,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00126,U0140,C034,2024-08-20,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00127,U0183,C050,2024-02-13,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00128,U0197,C016,2024-01-06,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00129,U0007,C007,2023-08-13,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00130,U0011,C006,2023-05-22,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00131,U0112,C012,2024-06-05,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00132,U0050,C035,2024-05-20,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00133,U0187,C042,2023-04-04,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00134,U0019,C001,2023-02-18,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00135,U0150,C008,2023-04-23,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00136,U0163,C022,2023-06-06,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00137,U0029,C020,2024-10-04,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00138,U0130,C048,2023-06-13,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00139,U0121,C034,2024-11-27,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00140,U0010,C028,2024-03-08,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00141,U0105,C008,2024-09-02,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00142,U0143,C016,2023-03-07,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00143,U0123,C016,2024-01-30,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00144,U0067,C004,2024-01-26,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00145,U0021,C031,2024-09-02,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00146,U0075,C035,2024-04-24,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00147,U0186,C007,2024-06-25,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00148,U0119,C023,2023-09-15,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00149,U0072,C022,2024-07-20,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00150,U0129,C039,2023-01-12,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00151,U0082,C037,2024-11-27,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00152,U0199,C023,2023-04-28,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00153,U0075,C031,2024-11-29,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00154,U0191,C017,2024-07-03,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00155,U0021,C026,2023-10-01,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00156,U0137,C035,2024-10-18,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00157,U0087,C001,2023-12-15,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00158,U0159,C017,2023-04-25,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00159,U0001,C021,2023-10-28,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00160,U0075,C002,2024-03-21,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00161,U0142,C024,2023-06-11,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00162,U0105,C001,2024-04-09,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00163,U0079,C047,2023-01-04,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00164,U0129,C002,2023-09-27,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00165,U0185,C004,2024-05-27,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00166,U0176,C019,2023-07-02,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00167,U0170,C041,2024-06-03,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00168,U0145,C023,2023-04-19,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00169,U0011,C016,2024-10-02,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00170,U0005,C006,2023-11-02,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00171,U0153,C027,2024-10-16,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00172,U0076,C010,2024-06-03,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00173,U0189,C020,2024-09-15,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00174,U0139,C040,2023-07-23,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00175,U0008,C002,2023-06-06,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00176,U0075,C013,2024-01-18,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00177,U0088,C039,2023-06-15,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00178,U0096,C005,2024-07-06,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00179,U0003,C010,2024-06-27,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00180,U0195,C005,2023-01-01,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00181,U0171,C043,2024-09-05,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00182,U0022,C031,2023-11-28,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00183,U0188,C025,2024-05-15,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00184,U0176,C006,2023-01-20,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00185,U0123,C044,2023-04-25,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00186,U0196,C023,2024-01-07,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00187,U0016,C006,2023-11-11,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00188,U0026,C049,2023-09-03,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00189,U0005,C030,2023-03-01,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00190,U0061,C013,2023-09-04,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00191,U0006,C026,2024-08-03,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00192,U0033,C049,2023-03-22,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00193,U0062,C027,2023-03-29,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00194,U0188,C004,2024-05-12,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00195,U0093,C025,2023-03-12,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00196,U0043,C004,2024-06-29,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00197,U0119,C031,2023-05-09,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00198,U0057,C030,2023-05-12,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00199,U0044,C036,2024-11-06,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00200,U0079,C044,2024-05-01,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00201,U0078,C045,2024-07-16,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00202,U0018,C043,2023-06-19,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00203,U0084,C020,2023-09-29,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00204,U0021,C042,2024-06-24,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00205,U0160,C016,2024-09-13,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00206,U0006,C021,2024-03-09,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00207,U0004,C028,2023-08-05,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00208,U0110,C027,2024-07-06,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00209,U0192,C033,2024-12-07,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00210,U0121,C019,2023-07-25,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00211,U0089,C031,2024-12-31,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00212,U0160,C016,2023-11-16,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00213,U0087,C016,2024-02-13,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00214,U0157,C033,2024-11-18,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00215,U0076,C021,2024-10-27,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00216,U0010,C037,2024-01-18,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00217,U0165,C020,2024-03-24,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00218,U0082,C042,2024-06-13,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00219,U0118,C019,2024-04-07,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00220,U0128,C035,2023-05-04,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00221,U0107,C006,2023-09-11,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00222,U0121,C012,2023-08-19,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00223,U0053,C045,2023-03-07,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00224,U0127,C031,2023-12-13,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00225,U0029,C042,2023-01-22,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00226,U0194,C022,2024-08-25,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00227,U0040,C028,2024-07-21,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00228,U0072,C042,2023-08-24,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00229,U0027,C039,2024-08-25,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00230,U0127,C025,2023-08-14,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00231,U0094,C006,2023-01-08,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00232,U0147,C047,2023-03-14,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00233,U0190,C031,2024-12-25,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00234,U0016,C038,2024-10-08,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00235,U0091,C047,2023-03-02,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00236,U0154,C015,2023-08-23,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00237,U0042,C041,2023-03-11,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00238,U0013,C036,2023-02-02,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00239,U0024,C045,2023-12-05,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00240,U0027,C014,2023-03-14,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00241,U0152,C026,2024-06-10,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00242,U0131,C026,2023-09-01,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00243,U0114,C022,2023-10-13,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00244,U0047,C049,2024-11-16,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00245,U0026,C008,2024-05-12,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00246,U0150,C048,2023-08-08,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00247,U0152,C017,2024-07-06,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00248,U0021,C006,2023-05-16,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00249,U0137,C050,2024-08-07,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00250,U0076,C010,2024-08-13,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00251,U0199,C039,2024-04-29,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00252,U0198,C009,2023-09-06,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00253,U0018,C009,2024-04-29,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00254,U0148,C035,2024-02-21,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00255,U0147,C049,2023-07-14,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00256,U0169,C021,2023-04-07,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00257,U0042,C032,2023-04-10,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00258,U0169,C040,2024-11-05,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00259,U0039,C001,2024-03-17,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00260,U0031,C035,2023-12-29,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00261,U0007,C039,2024-03-09,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00262,U0075,C004,2024-02-25,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00263,U0165,C033,2024-04-23,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00264,U0045,C013,2023-02-25,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00265,U0144,C020,2024-11-20,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00266,U0091,C023,2024-10-31,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00267,U0094,C044,2024-10-23,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00268,U0093,C018,2023-04-11,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00269,U0047,C031,2023-03-04,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00270,U0200,C007,2024-02-17,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00271,U0117,C044,2023-12-14,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00272,U0049,C031,2023-04-22,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00273,U0042,C029,2023-09-12,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00274,U0183,C048,2023-07-16,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00275,U0154,C023,2023-07-14,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00276,U0171,C049,2024-07-03,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00277,U0169,C008,2024-04-04,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00278,U0198,C002,2023-05-24,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00279,U0083,C040,2024-03-08,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00280,U0120,C042,2023-07-07,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00281,U0096,C002,2023-10-13,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00282,U0182,C012,2024-04-18,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00283,U0127,C011,2023-09-13,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00284,U0023,C025,2023-03-19,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00285,U0125,C040,2024-03-29,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00286,U0089,C009,2024-07-17,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00287,U0164,C033,2023-04-11,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00288,U0008,C047,2023-02-21,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00289,U0127,C036,2024-10-29,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00290,U0141,C034,2024-07-07,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00291,U0070,C002,2023-01-16,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00292,U0003,C005,2023-04-06,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00293,U0107,C008,2023-08-31,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00294,U0185,C030,2023-06-20,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00295,U0094,C042,2024-02-21,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00296,U0011,C022,2024-05-12,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00297,U0183,C015,2024-05-07,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00298,U0063,C037,2023-08-07,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00299,U0048,C039,2024-02-15,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00300,U0122,C018,2023-03-02,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00301,U0155,C007,2023-06-18,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00302,U0131,C003,2024-01-24,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00303,U0049,C017,2023-01-03,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00304,U0123,C018,2024-02-04,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00305,U0075,C043,2023-09-29,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00306,U0059,C048,2024-04-10,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00307,U0101,C038,2023-10-20,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00308,U0055,C017,2024-03-09,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00309,U0094,C035,2024-12-14,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00310,U0154,C010,2024-07-23,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00311,U0040,C046,2024-11-08,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00312,U0065,C044,2024-05-13,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00313,U0195,C017,2023-06-08,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00314,U0109,C029,2023-07-14,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00315,U0127,C008,2023-10-31,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00316,U0030,C016,2023-08-11,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00317,U0132,C001,2023-03-01,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00318,U0050,C023,2024-08-16,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00319,U0148,C031,2024-07-09,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00320,U0122,C039,2023-03-04,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00321,U0010,C045,2023-11-18,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00322,U0190,C005,2023-02-28,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00323,U0061,C002,2023-02-21,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00324,U0167,C023,2024-08-21,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00325,U0006,C047,2024-05-03,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00326,U0010,C016,2024-05-29,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00327,U0180,C007,2024-06-27,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00328,U0082,C047,2023-06-11,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00329,U0139,C046,2023-02-28,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00330,U0049,C007,2024-06-04,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00331,U0111,C022,2023-03-24,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00332,U0178,C016,2023-07-10,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00333,U0012,C032,2023-03-12,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00334,U0111,C005,2024-09-01,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00335,U0031,C028,2023-03-11,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00336,U0156,C007,2024-11-22,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00337,U0165,C040,2023-08-29,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00338,U0077,C017,2024-02-18,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00339,U0147,C044,2023-05-03,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00340,U0180,C011,2024-08-06,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00341,U0127,C027,2023-09-10,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00342,U0181,C026,2024-08-15,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00343,U0141,C048,2024-08-31,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00344,U0017,C035,2023-02-10,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00345,U0075,C021,2024-09-26,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00346,U0053,C040,2023-03-25,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00347,U0026,C016,2024-03-05,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00348,U0084,C021,2024-11-04,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00349,U0032,C012,2024-08-20,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00350,U0172,C006,2024-08-01,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00351,U0039,C035,2024-06-19,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00352,U0082,C024,2023-11-20,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00353,U0131,C037,2023-09-25,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00354,U0063,C020,2023-07-29,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00355,U0092,C050,2024-11-16,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00356,U0037,C013,2023-11-18,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00357,U0052,C025,2023-09-02,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00358,U0178,C038,2023-09-29,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00359,U0011,C049,2024-02-10,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00360,U0067,C035,2023-05-15,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00361,U0164,C035,2024-11-18,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00362,U0059,C033,2024-10-22,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00363,U0113,C011,2023-11-04,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00364,U0088,C024,2024-04-13,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00365,U0094,C022,2023-11-20,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00366,U0052,C010,2023-03-16,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00367,U0160,C039,2023-01-10,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00368,U0044,C001,2024-04-14,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00369,U0002,C019,2024-09-28,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00370,U0013,C045,2024-07-30,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00371,U0200,C008,2023-04-13,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00372,U0118,C042,2023-03-17,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00373,U0054,C041,2024-07-04,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00374,U0129,C049,2023-08-07,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00375,U0141,C026,2024-06-02,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00376,U0183,C042,2023-09-29,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00377,U0015,C049,2023-05-16,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00378,U0183,C006,2023-12-24,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00379,U0048,C035,2023-03-12,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00380,U0114,C021,2023-09-08,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00381,U0022,C025,2024-01-14,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00382,U0140,C032,2023-10-19,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00383,U0092,C025,2023-06-11,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00384,U0054,C002,2024-03-24,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00385,U0013,C042,2024-07-10,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00386,U0141,C040,2024-12-21,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00387,U0089,C028,2023-11-06,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00388,U0137,C009,2024-09-18,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00389,U0111,C024,2024-10-31,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00390,U0021,C031,2024-06-25,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00391,U0106,C029,2023-01-09,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00392,U0169,C021,2024-11-14,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00393,U0095,C036,2024-07-21,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00394,U0095,C022,2023-11-03,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00395,U0162,C005,2024-11-10,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00396,U0052,C016,2023-04-17,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00397,U0071,C043,2023-05-18,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00398,U0100,C026,2023-09-28,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00399,U0178,C042,2023-04-29,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00400,U0189,C032,2023-04-20,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00401,U0082,C012,2024-07-20,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00402,U0070,C002,2023-06-09,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00403,U0105,C003,2023-10-06,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00404,U0185,C003,2023-10-16,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00405,U0036,C014,2024-09-11,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00406,U0163,C040,2023-08-04,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00407,U0167,C027,2023-12-18,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00408,U0159,C038,2023-07-28,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00409,U0031,C048,2024-12-04,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00410,U0185,C015,2024-10-11,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00411,U0184,C036,2023-09-28,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00412,U0132,C047,2024-06-01,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00413,U0054,C007,2024-05-15,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00414,U0198,C041,2023-09-15,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00415,U0149,C022,2023-02-22,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00416,U0065,C027,2023-04-05,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00417,U0028,C043,2024-10-11,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00418,U0177,C047,2024-03-09,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00419,U0048,C009,2023-10-11,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00420,U0004,C028,2023-02-15,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00421,U0100,C011,2023-01-04,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00422,U0098,C025,2023-12-08,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00423,U0111,C039,2023-05-14,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00424,U0183,C029,2024-10-14,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00425,U0100,C011,2023-09-26,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00426,U0043,C025,2023-06-15,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00427,U0132,C012,2024-03-28,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00428,U0121,C001,2024-07-18,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00429,U0137,C040,2024-12-23,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00430,U0042,C019,2024-03-13,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00431,U0028,C002,2024-07-28,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00432,U0107,C036,2023-01-10,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00433,U0158,C042,2023-04-25,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00434,U0153,C033,2023-03-19,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00435,U0037,C004,2024-12-08,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00436,U0130,C018,2023-06-02,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00437,U0135,C043,2024-07-12,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00438,U0053,C006,2023-02-06,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00439,U0145,C029,2024-01-14,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00440,U0003,C031,2024-08-19,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00441,U0042,C043,2024-07-19,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00442,U0111,C004,2023-06-01,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00443,U0147,C050,2024-03-16,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00444,U0101,C001,2023-05-11,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00445,U0176,C030,2023-02-12,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00446,U0046,C031,2023-11-12,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00447,U0097,C040,2024-01-09,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00448,U0060,C011,2023-02-10,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00449,U0116,C028,2024-01-02,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00450,U0168,C017,2023-08-04,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00451,U0092,C017,2024-11-29,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00452,U0183,C026,2023-09-13,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00453,U0186,C014,2024-11-13,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00454,U0070,C048,2023-04-16,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00455,U0050,C005,2023-12-29,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00456,U0083,C043,2024-07-27,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00457,U0005,C003,2024-02-21,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00458,U0151,C030,2024-09-27,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00459,U0128,C008,2023-06-08,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00460,U0018,C047,2023-08-31,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00461,U0019,C035,2023-06-16,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00462,U0082,C021,2023-07-01,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00463,U0165,C050,2024-02-27,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00464,U0195,C011,2023-01-26,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00465,U0074,C025,2023-07-03,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00466,U0019,C014,2023-12-07,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00467,U0054,C006,2024-02-26,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00468,U0011,C037,2024-11-16,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00469,U0034,C006,2023-09-12,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00470,U0046,C031,2023-10-01,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00471,U0022,C047,2023-06-13,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00472,U0074,C040,2024-12-19,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00473,U0075,C028,2023-04-21,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00474,U0005,C039,2024-01-27,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00475,U0011,C021,2023-02-09,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00476,U0123,C038,2024-04-26,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00477,U0009,C014,2023-08-16,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00478,U0140,C049,2023-07-24,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00479,U0018,C005,2024-04-16,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00480,U0005,C020,2023-12-25,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00481,U0009,C031,2023-11-09,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00482,U0099,C008,2023-08-22,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00483,U0130,C032,2023-08-17,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00484,U0064,C031,2023-01-25,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00485,U0164,C015,2024-11-06,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00486,U0102,C014,2023-07-17,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00487,U0012,C028,2024-02-13,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00488,U0139,C034,2023-12-03,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00489,U0115,C031,2023-10-13,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00490,U0170,C038,2023-03-13,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00491,U0134,C029,2023-10-13,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00492,U0028,C048,2023-12-26,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00493,U0146,C028,2024-10-18,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00494,U0166,C025,2024-06-05,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00495,U0085,C029,2024-02-14,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00496,U0120,C029,2024-11-26,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00497,U0142,C030,2024-07-03,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00498,U0058,C009,2023-12-06,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00499,U0108,C030,2023-01-29,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00500,U0046,C016,2023-04-29,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00501,U0134,C026,2023-09-25,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00502,U0060,C013,2023-07-02,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00503,U0197,C030,2024-08-17,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00504,U0052,C035,2023-09-29,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00505,U0077,C032,2023-02-09,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00506,U0078,C013,2023-04-22,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00507,U0021,C017,2024-09-02,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00508,U0182,C003,2024-03-20,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00509,U0168,C019,2023-12-20,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00510,U0187,C037,2023-11-18,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00511,U0115,C040,2024-03-22,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00512,U0076,C032,2024-09-12,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00513,U0043,C038,2024-06-07,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00514,U0097,C042,2023-04-29,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00515,U0013,C046,2024-01-30,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00516,U0180,C029,2024-08-13,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00517,U0040,C008,2023-07-14,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00518,U0195,C048,2023-09-18,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00519,U0013,C042,2023-02-15,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00520,U0091,C044,2024-12-26,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00521,U0075,C028,2024-03-22,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00522,U0185,C048,2023-01-02,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00523,U0064,C016,2024-06-16,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00524,U0028,C045,2024-07-05,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00525,U0032,C018,2024-12-04,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00526,U0156,C007,2024-11-17,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00527,U0110,C025,2023-07-21,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00528,U0153,C024,2024-01-08,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00529,U0076,C029,2024-03-17,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00530,U0121,C042,2023-03-13,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00531,U0157,C045,2024-11-11,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00532,U0053,C037,2023-12-05,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00533,U0156,C017,2024-09-30,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00534,U0168,C002,2023-11-18,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00535,U0051,C020,2024-11-10,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00536,U0148,C011,2023-05-08,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00537,U0160,C036,2023-11-04,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00538,U0004,C021,2024-06-03,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00539,U0127,C036,2023-11-13,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00540,U0034,C018,2024-11-13,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00541,U0062,C034,2024-02-23,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00542,U0198,C042,2023-12-01,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00543,U0128,C034,2024-02-17,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00544,U0189,C019,2024-12-14,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00545,U0163,C007,2023-10-30,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00546,U0150,C019,2024-07-21,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00547,U0090,C019,2023-05-11,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00548,U0197,C045,2023-07-16,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00549,U0120,C035,2024-03-06,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00550,U0095,C027,2024-11-11,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00551,U0119,C005,2024-01-24,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00552,U0099,C027,2024-11-24,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00553,U0002,C034,2023-06-28,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00554,U0165,C011,2024-09-22,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00555,U0104,C048,2024-08-05,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00556,U0037,C029,2023-11-05,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00557,U0134,C021,2024-02-20,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00558,U0072,C006,2024-07-15,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00559,U0196,C038,2023-01-01,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00560,U0111,C018,2023-11-08,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00561,U0058,C038,2023-10-21,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00562,U0168,C021,2023-08-04,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00563,U0188,C017,2024-03-16,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00564,U0189,C043,2024-08-16,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00565,U0023,C040,2024-09-13,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00566,U0163,C034,2024-11-01,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00567,U0018,C028,2023-11-26,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00568,U0141,C040,2024-04-21,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00569,U0141,C028,2024-03-28,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00570,U0139,C006,2024-03-28,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00571,U0168,C035,2024-11-22,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00572,U0061,C006,2023-08-07,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00573,U0124,C025,2024-06-07,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00574,U0136,C026,2024-04-29,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00575,U0182,C024,2023-06-23,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00576,U0130,C032,2024-11-05,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00577,U0034,C018,2023-03-28,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00578,U0172,C041,2023-10-18,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00579,U0176,C041,2024-06-11,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00580,U0164,C028,2024-11-10,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00581,U0114,C021,2024-10-10,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00582,U0017,C046,2024-09-26,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00583,U0139,C040,2023-12-10,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00584,U0123,C004,2023-04-06,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00585,U0012,C016,2023-08-29,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00586,U0013,C009,2024-11-19,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00587,U0046,C008,2023-11-14,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00588,U0102,C033,2023-08-19,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00589,U0003,C010,2023-07-23,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00590,U0191,C015,2023-05-31,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00591,U0151,C038,2023-01-26,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00592,U0182,C045,2023-02-17,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00593,U0052,C017,2023-09-08,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00594,U0125,C002,2024-05-01,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00595,U0179,C026,2024-09-17,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00596,U0105,C034,2023-03-16,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00597,U0160,C039,2024-04-11,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00598,U0145,C026,2024-02-29,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00599,U0161,C007,2024-10-06,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00600,U0033,C035,2024-08-12,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00601,U0151,C034,2023-07-19,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00602,U0117,C001,2024-12-14,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00603,U0175,C038,2024-01-29,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00604,U0004,C041,2024-05-21,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00605,U0043,C033,2024-02-14,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00606,U0099,C017,2023-09-07,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00607,U0105,C025,2023-06-01,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00608,U0093,C023,2024-11-02,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00609,U0143,C046,2024-12-05,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00610,U0122,C018,2023-01-06,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00611,U0125,C027,2023-04-20,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00612,U0040,C034,2024-03-11,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00613,U0108,C032,2023-08-13,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00614,U0149,C021,2023-06-30,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00615,U0134,C014,2024-12-13,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00616,U0080,C043,2024-06-14,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00617,U0036,C043,2024-04-20,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00618,U0019,C038,2023-02-21,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00619,U0163,C003,2024-07-24,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00620,U0030,C008,2023-09-13,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00621,U0172,C047,2023-05-05,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00622,U0115,C002,2024-04-12,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00623,U0041,C045,2023-05-17,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00624,U0108,C042,2024-04-20,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00625,U0191,C019,2024-11-14,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00626,U0055,C021,2024-06-27,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00627,U0140,C040,2024-07-26,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00628,U0003,C030,2024-09-01,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00629,U0066,C044,2023-11-21,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00630,U0119,C017,2024-03-29,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00631,U0150,C039,2024-09-19,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00632,U0105,C009,2024-05-31,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00633,U0199,C049,2024-03-12,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00634,U0024,C045,2024-07-15,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00635,U0045,C026,2024-04-01,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00636,U0053,C036,2023-06-12,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00637,U0170,C004,2024-05-01,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00638,U0185,C022,2024-04-05,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00639,U0017,C031,2023-09-23,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00640,U0153,C017,2023-09-11,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00641,U0103,C045,2024-10-14,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00642,U0074,C006,2023-10-11,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00643,U0138,C050,2024-06-17,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00644,U0034,C023,2024-05-11,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00645,U0200,C022,2024-10-03,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00646,U0198,C044,2023-09-02,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00647,U0159,C026,2023-10-09,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00648,U0058,C039,2024-03-26,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00649,U0136,C001,2023-03-21,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00650,U0184,C008,2024-12-31,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00651,U0116,C027,2023-10-20,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00652,U0057,C032,2023-08-29,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00653,U0170,C049,2023-10-06,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00654,U0105,C048,2023-12-10,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00655,U0120,C036,2023-11-24,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00656,U0074,C043,2024-07-07,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00657,U0154,C012,2023-03-24,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00658,U0136,C001,2023-05-22,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00659,U0198,C026,2023-06-04,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00660,U0167,C043,2023-08-25,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00661,U0021,C043,2024-01-28,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00662,U0008,C006,2024-12-11,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00663,U0110,C044,2023-06-06,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00664,U0164,C039,2024-12-24,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00665,U0085,C007,2023-08-08,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00666,U0097,C043,2023-03-07,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00667,U0026,C004,2024-02-29,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00668,U0016,C048,2024-02-22,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00669,U0032,C015,2023-12-05,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00670,U0048,C031,2024-07-09,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00671,U0116,C023,2024-04-22,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00672,U0021,C021,2024-03-01,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00673,U0070,C049,2023-03-05,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00674,U0058,C047,2023-07-31,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00675,U0127,C040,2024-03-06,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00676,U0024,C044,2024-02-03,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00677,U0052,C005,2024-08-21,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00678,U0048,C014,2024-12-13,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00679,U0175,C031,2023-01-21,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00680,U0085,C024,2024-08-12,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00681,U0010,C017,2024-01-25,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00682,U0116,C033,2024-05-03,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00683,U0078,C012,2023-01-07,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00684,U0177,C044,2023-12-27,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00685,U0020,C042,2023-11-02,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00686,U0162,C024,2024-02-04,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00687,U0161,C025,2024-03-05,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00688,U0187,C049,2024-07-05,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00689,U0163,C023,2024-07-13,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00690,U0162,C014,2024-09-09,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00691,U0094,C035,2023-08-14,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00692,U0078,C030,2024-05-14,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00693,U0140,C042,2023-08-13,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00694,U0188,C040,2023-10-07,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00695,U0012,C010,2024-03-22,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00696,U0155,C022,2024-05-12,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00697,U0101,C034,2023-01-30,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00698,U0017,C029,2024-02-03,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00699,U0088,C041,2023-12-11,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00700,U0016,C001,2024-11-15,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00701,U0171,C015,2024-11-26,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00702,U0183,C002,2024-02-19,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00703,U0172,C037,2023-06-19,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00704,U0192,C013,2024-04-23,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00705,U0131,C020,2023-05-11,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00706,U0134,C044,2024-09-29,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00707,U0167,C036,2024-06-30,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00708,U0090,C036,2023-01-28,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00709,U0031,C035,2024-02-08,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00710,U0197,C015,2024-08-29,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00711,U0188,C029,2024-07-31,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00712,U0026,C001,2024-11-09,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00713,U0003,C019,2023-01-28,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00714,U0030,C031,2023-03-27,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00715,U0107,C009,2024-10-20,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00716,U0174,C045,2024-03-14,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00717,U0025,C002,2023-05-19,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00718,U0092,C026,2024-04-17,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00719,U0106,C046,2023-07-06,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00720,U0020,C016,2023-02-21,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00721,U0047,C003,2023-09-24,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00722,U0141,C011,2024-01-24,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00723,U0173,C020,2023-12-02,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00724,U0116,C037,2023-08-05,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00725,U0129,C011,2024-04-10,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00726,U0007,C016,2023-12-01,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00727,U0132,C020,2023-12-12,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00728,U0010,C036,2024-01-24,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00729,U0113,C025,2023-10-12,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00730,U0187,C027,2024-03-07,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00731,U0043,C011,2023-09-16,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00732,U0056,C041,2023-03-25,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00733,U0088,C014,2024-04-26,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00734,U0108,C027,2023-01-20,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00735,U0157,C011,2024-07-06,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00736,U0051,C011,2023-02-23,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00737,U0038,C045,2023-12-25,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00738,U0006,C002,2023-08-18,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00739,U0114,C009,2024-10-27,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00740,U0167,C012,2023-03-12,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00741,U0037,C019,2024-10-29,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00742,U0171,C015,2023-02-11,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00743,U0113,C039,2023-02-01,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00744,U0196,C050,2023-09-11,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00745,U0056,C034,2023-07-24,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00746,U0130,C028,2023-01-21,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00747,U0182,C015,2024-09-28,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00748,U0148,C035,2023-06-06,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00749,U0047,C045,2023-09-02,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00750,U0069,C046,2023-05-10,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00751,U0158,C023,2024-04-29,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00752,U0113,C044,2024-11-16,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00753,U0133,C046,2023-04-28,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00754,U0133,C018,2024-07-31,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00755,U0063,C016,2023-08-12,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00756,U0152,C009,2024-04-21,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00757,U0051,C020,2024-12-17,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00758,U0155,C024,2023-09-20,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00759,U0029,C004,2024-01-13,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00760,U0016,C009,2023-06-21,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00761,U0025,C023,2024-09-12,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00762,U0078,C010,2024-09-13,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00763,U0146,C018,2023-04-28,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00764,U0093,C024,2023-06-17,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00765,U0073,C030,2023-11-15,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00766,U0105,C003,2023-04-21,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00767,U0023,C038,2024-08-15,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00768,U0170,C025,2023-01-27,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00769,U0112,C037,2023-11-16,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00770,U0151,C028,2024-08-12,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00771,U0083,C036,2024-11-24,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00772,U0166,C037,2024-01-20,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00773,U0042,C021,2024-02-11,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00774,U0181,C050,2023-07-23,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00775,U0119,C044,2023-03-19,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00776,U0148,C020,2024-08-29,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00777,U0199,C028,2024-12-08,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00778,U0165,C042,2024-10-04,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00779,U0196,C008,2023-09-06,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00780,U0018,C048,2023-04-15,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00781,U0151,C003,2024-12-14,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00782,U0180,C004,2023-11-05,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00783,U0024,C028,2024-12-01,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00784,U0171,C034,2024-09-06,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00785,U0017,C035,2023-05-04,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00786,U0190,C014,2024-08-02,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00787,U0050,C003,2023-02-12,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00788,U0186,C011,2023-12-22,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00789,U0129,C028,2024-06-29,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00790,U0040,C047,2024-03-14,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00791,U0018,C035,2024-11-08,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00792,U0198,C040,2024-01-15,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00793,U0103,C005,2023-03-12,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00794,U0066,C032,2024-06-02,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00795,U0029,C034,2024-10-25,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00796,U0166,C043,2023-12-16,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00797,U0005,C012,2023-01-13,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00798,U0159,C040,2024-03-06,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00799,U0029,C027,2024-05-16,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR00800,U0085,C015,2023-04-19,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00801,U0086,C007,2024-03-19,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00802,U0123,C021,2024-01-06,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00803,U0034,C050,2024-10-12,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00804,U0041,C040,2024-04-15,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00805,U0085,C028,2024-12-25,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00806,U0030,C009,2023-06-06,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00807,U0067,C005,2024-03-21,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00808,U0011,C048,2023-06-30,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00809,U0190,C003,2024-06-18,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00810,U0154,C043,2024-10-28,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00811,U0043,C040,2023-10-04,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00812,U0148,C013,2024-09-22,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00813,U0173,C001,2024-07-05,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00814,U0088,C017,2024-05-10,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00815,U0091,C046,2024-04-21,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00816,U0200,C043,2024-03-22,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00817,U0024,C034,2024-08-29,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00818,U0159,C024,2023-10-02,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00819,U0088,C017,2023-11-27,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00820,U0001,C023,2023-09-09,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00821,U0137,C047,2023-03-30,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00822,U0016,C010,2023-10-13,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00823,U0057,C043,2024-04-06,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00824,U0097,C003,2023-09-07,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00825,U0022,C036,2024-04-20,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00826,U0036,C050,2024-08-06,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00827,U0126,C033,2024-09-16,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00828,U0185,C002,2024-11-15,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00829,U0022,C048,2024-01-24,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00830,U0074,C033,2023-12-11,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00831,U0164,C036,2023-01-30,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00832,U0032,C016,2024-05-21,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00833,U0057,C019,2023-11-29,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00834,U0068,C025,2023-07-06,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00835,U0046,C004,2024-05-14,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00836,U0160,C041,2023-08-06,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00837,U0016,C026,2023-12-30,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00838,U0183,C032,2023-09-22,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00839,U0152,C014,2023-12-15,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00840,U0129,C046,2023-10-14,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00841,U0181,C022,2024-09-02,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR00842,U0199,C013,2024-12-19,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00843,U0098,C034,2023-10-10,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00844,U0075,C034,2024-07-23,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00845,U0197,C017,2023-01-11,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00846,U0045,C028,2024-06-13,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00847,U0061,C023,2023-07-15,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00848,U0012,C030,2023-03-29,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00849,U0022,C047,2023-09-05,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR00850,U0041,C010,2024-02-21,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00851,U0037,C003,2024-05-15,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00852,U0070,C011,2024-07-22,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00853,U0100,C007,2023-09-04,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00854,U0025,C050,2024-12-08,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00855,U0078,C035,2024-05-02,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00856,U0095,C034,2024-10-23,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00857,U0022,C002,2024-12-29,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00858,U0067,C011,2024-05-17,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00859,U0118,C033,2024-04-03,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00860,U0082,C023,2023-01-18,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00861,U0153,C010,2023-04-06,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00862,U0185,C006,2023-10-29,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00863,U0115,C020,2023-08-15,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00864,U0070,C042,2024-02-19,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00865,U0027,C041,2024-12-09,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00866,U0077,C033,2023-09-07,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00867,U0045,C025,2023-11-10,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00868,U0136,C023,2024-11-10,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00869,U0078,C030,2024-08-18,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR00870,U0175,C048,2024-01-13,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00871,U0058,C018,2024-04-29,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR00872,U0108,C025,2024-07-20,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00873,U0130,C050,2024-06-27,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00874,U0184,C039,2023-12-19,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00875,U0042,C048,2024-03-11,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00876,U0020,C039,2024-07-17,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00877,U0160,C004,2023-12-05,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00878,U0078,C042,2023-12-27,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00879,U0200,C020,2024-12-20,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00880,U0095,C045,2024-04-09,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00881,U0007,C039,2023-10-05,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00882,U0123,C031,2023-11-10,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00883,U0034,C026,2023-09-15,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00884,U0022,C004,2023-08-25,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00885,U0089,C039,2023-05-04,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR00886,U0118,C041,2023-07-17,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00887,U0043,C016,2023-11-20,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00888,U0194,C042,2023-05-03,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00889,U0187,C016,2024-07-02,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00890,U0036,C001,2024-12-07,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00891,U0052,C025,2023-07-09,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00892,U0034,C021,2023-07-16,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00893,U0018,C007,2023-08-10,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00894,U0031,C035,2024-05-10,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00895,U0002,C036,2023-10-11,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00896,U0079,C001,2024-08-26,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR00897,U0157,C041,2024-06-21,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00898,U0152,C049,2024-09-03,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00899,U0194,C013,2023-10-17,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR00900,U0191,C015,2023-04-13,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00901,U0004,C005,2023-07-18,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00902,U0039,C050,2023-10-31,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00903,U0118,C046,2023-08-21,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00904,U0195,C032,2024-01-05,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00905,U0135,C036,2023-07-03,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00906,U0071,C021,2023-11-06,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00907,U0122,C016,2023-01-15,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR00908,U0027,C045,2024-12-26,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00909,U0175,C006,2024-06-30,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00910,U0199,C038,2023-05-10,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR00911,U0021,C005,2023-10-08,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR00912,U0163,C008,2023-02-16,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00913,U0088,C041,2023-02-25,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00914,U0177,C007,2024-07-20,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00915,U0008,C050,2023-10-27,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR00916,U0179,C012,2024-12-15,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00917,U0095,C035,2023-05-10,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00918,U0053,C009,2024-10-15,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00919,U0166,C049,2024-05-17,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00920,U0014,C046,2023-04-16,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR00921,U0186,C002,2023-01-13,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00922,U0007,C044,2024-08-10,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00923,U0091,C036,2023-10-19,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00924,U0050,C006,2024-04-25,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00925,U0013,C020,2024-05-05,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00926,U0101,C026,2024-03-27,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00927,U0163,C040,2023-12-15,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR00928,U0161,C017,2023-07-08,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00929,U0188,C009,2023-02-22,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00930,U0120,C023,2023-09-16,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00931,U0104,C014,2024-05-04,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00932,U0093,C044,2023-04-27,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00933,U0044,C028,2023-03-08,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00934,U0093,C032,2024-02-15,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00935,U0189,C043,2024-05-18,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR00936,U0182,C012,2023-03-17,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00937,U0029,C029,2024-08-13,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00938,U0109,C017,2024-10-06,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00939,U0014,C007,2024-12-03,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00940,U0080,C012,2023-02-24,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00941,U0038,C006,2023-06-05,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR00942,U0099,C012,2023-06-02,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00943,U0028,C017,2024-07-30,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00944,U0163,C045,2023-11-08,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00945,U0197,C021,2023-03-29,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00946,U0105,C025,2023-09-12,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR00947,U0056,C049,2023-05-02,9662,Design,Recorded,Beginner,9662,25,4.76,T009,Design,10,3.68,Low,Low,Low
+TR00948,U0080,C015,2024-07-25,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00949,U0195,C029,2024-03-02,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00950,U0181,C002,2024-09-12,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00951,U0102,C020,2024-09-02,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00952,U0019,C033,2024-09-25,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR00953,U0020,C007,2023-08-20,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00954,U0182,C015,2024-06-19,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00955,U0017,C003,2024-01-25,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00956,U0093,C029,2024-04-06,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR00957,U0122,C014,2024-03-29,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR00958,U0047,C008,2023-11-01,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR00959,U0139,C048,2024-08-25,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR00960,U0025,C044,2024-03-15,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00961,U0078,C031,2023-11-09,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00962,U0124,C034,2024-08-05,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR00963,U0109,C032,2024-09-27,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00964,U0178,C037,2023-03-03,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00965,U0117,C003,2024-09-16,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR00966,U0050,C002,2023-04-12,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00967,U0035,C007,2023-08-01,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00968,U0100,C036,2024-10-02,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00969,U0076,C015,2023-08-05,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00970,U0118,C031,2023-09-28,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00971,U0173,C028,2024-11-07,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR00972,U0200,C042,2023-03-25,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00973,U0077,C032,2023-06-10,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00974,U0094,C020,2023-09-03,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR00975,U0010,C045,2023-06-27,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00976,U0086,C012,2024-07-19,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR00977,U0010,C042,2023-03-18,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR00978,U0036,C041,2023-06-10,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00979,U0188,C031,2023-01-03,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR00980,U0030,C004,2024-02-23,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR00981,U0013,C009,2024-04-06,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR00982,U0026,C011,2024-12-06,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR00983,U0127,C019,2024-08-31,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR00984,U0062,C017,2024-04-26,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR00985,U0194,C044,2023-10-26,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR00986,U0139,C015,2023-02-03,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR00987,U0178,C024,2023-08-26,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00988,U0167,C021,2023-10-23,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR00989,U0091,C035,2024-12-24,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR00990,U0079,C037,2023-10-17,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR00991,U0096,C032,2024-12-20,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR00992,U0163,C045,2024-04-09,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR00993,U0037,C041,2023-03-14,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR00994,U0100,C026,2024-12-04,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00995,U0133,C002,2023-08-28,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR00996,U0120,C023,2023-09-28,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR00997,U0135,C026,2024-10-02,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR00998,U0169,C036,2024-08-26,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR00999,U0086,C018,2024-11-08,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR01000,U0029,C020,2023-07-22,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR01001,U0123,C017,2024-03-11,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR01002,U0072,C009,2023-04-28,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR01003,U0149,C044,2024-07-11,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR01004,U0059,C037,2023-08-19,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR01005,U0021,C044,2024-10-25,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR01006,U0001,C021,2023-06-02,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR01007,U0030,C038,2023-09-30,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01008,U0127,C032,2023-05-26,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR01009,U0095,C029,2023-03-15,1823,Programming,Recorded,Advanced,1823,29,4.13,T003,Business,14,4.49,Mid,Mid,Mid
+TR01010,U0047,C041,2023-03-03,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR01011,U0102,C011,2023-06-19,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR01012,U0152,C040,2023-11-11,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01013,U0088,C042,2024-09-01,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01014,U0195,C017,2024-08-05,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR01015,U0028,C041,2023-10-23,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR01016,U0127,C014,2024-03-25,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR01017,U0097,C026,2023-05-08,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR01018,U0104,C003,2024-04-24,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR01019,U0013,C043,2024-12-06,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01020,U0194,C050,2023-11-08,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01021,U0028,C019,2024-12-17,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01022,U0122,C019,2024-02-17,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01023,U0135,C033,2023-10-06,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR01024,U0126,C025,2024-05-27,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR01025,U0012,C027,2024-07-06,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR01026,U0067,C050,2024-05-20,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01027,U0166,C045,2024-03-24,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01028,U0038,C011,2023-03-24,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR01029,U0144,C036,2024-09-04,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR01030,U0194,C015,2023-02-10,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR01031,U0054,C023,2024-03-18,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR01032,U0092,C045,2023-11-27,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01033,U0099,C048,2024-09-10,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR01034,U0045,C043,2023-09-14,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01035,U0046,C038,2023-01-27,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01036,U0017,C050,2023-04-04,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01037,U0113,C037,2023-08-23,5910,Programming,Live,Intermediate,5910,36,4.45,T019,Design,5,4.02,Mid,Mid,Mid
+TR01038,U0185,C040,2024-11-21,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01039,U0090,C041,2024-08-12,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR01040,U0057,C012,2024-08-24,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR01041,U0018,C044,2023-01-22,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR01042,U0099,C018,2024-11-19,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR01043,U0050,C017,2023-10-03,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR01044,U0039,C007,2024-08-13,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01045,U0072,C028,2023-02-11,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR01046,U0076,C023,2023-06-29,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR01047,U0184,C020,2024-04-26,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR01048,U0168,C039,2024-06-15,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR01049,U0019,C017,2024-10-29,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR01050,U0021,C030,2024-03-28,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR01051,U0197,C007,2023-10-12,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01052,U0029,C038,2023-07-05,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01053,U0151,C019,2024-08-22,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01054,U0172,C040,2024-03-22,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01055,U0184,C012,2024-10-12,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR01056,U0156,C047,2024-05-18,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR01057,U0189,C041,2023-04-04,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR01058,U0165,C026,2024-04-26,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR01059,U0176,C045,2023-12-23,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01060,U0020,C042,2024-02-23,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01061,U0043,C050,2023-12-08,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01062,U0112,C050,2023-11-25,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01063,U0034,C021,2024-11-17,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR01064,U0194,C016,2023-04-18,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR01065,U0060,C017,2023-06-14,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR01066,U0079,C040,2023-12-04,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01067,U0112,C044,2024-02-26,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR01068,U0183,C031,2024-12-11,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR01069,U0067,C020,2024-05-22,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR01070,U0094,C013,2023-10-23,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01071,U0150,C046,2024-11-09,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR01072,U0146,C003,2024-02-15,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR01073,U0112,C011,2024-07-17,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR01074,U0080,C033,2023-02-07,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR01075,U0097,C003,2024-04-10,9702,Business,Live,Advanced,9702,14,4.62,T005,Programming,1,4.6,High,High,High
+TR01076,U0146,C005,2023-04-01,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR01077,U0125,C032,2023-11-19,1133,Programming,Recorded,Beginner,1133,34,4.71,T029,Design,13,4.31,Mid,Mid,Mid
+TR01078,U0142,C043,2023-09-16,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01079,U0127,C012,2023-11-28,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR01080,U0190,C031,2023-04-29,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR01081,U0095,C014,2024-02-18,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR01082,U0151,C030,2024-06-10,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR01083,U0056,C019,2023-01-02,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01084,U0013,C045,2024-11-04,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01085,U0098,C033,2024-07-09,3105,Design,Live,Intermediate,3105,9,4.85,T018,Data Science,12,4.71,High,High,High
+TR01086,U0065,C022,2024-04-18,9647,Business,Live,Advanced,9647,32,3.96,T016,Business,7,3.53,Low,Low,Low
+TR01087,U0018,C041,2024-02-28,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR01088,U0174,C043,2023-02-25,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01089,U0054,C038,2023-07-12,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01090,U0175,C048,2024-06-14,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR01091,U0006,C040,2024-01-06,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01092,U0198,C013,2024-09-29,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01093,U0064,C004,2024-05-25,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01094,U0029,C043,2024-10-02,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01095,U0030,C005,2024-03-28,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR01096,U0143,C009,2023-02-22,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR01097,U0131,C040,2023-07-28,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01098,U0022,C048,2023-10-01,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR01099,U0091,C043,2024-07-16,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01100,U0005,C039,2023-05-15,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR01101,U0159,C009,2023-10-22,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR01102,U0011,C047,2024-03-24,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR01103,U0140,C034,2024-12-16,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR01104,U0146,C013,2024-05-11,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01105,U0182,C042,2023-05-05,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01106,U0182,C019,2023-01-30,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01107,U0087,C047,2024-10-07,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR01108,U0057,C024,2024-09-15,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR01109,U0075,C027,2023-09-03,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR01110,U0029,C014,2024-12-27,5186,Marketing,Recorded,Beginner,5186,32,4.82,T019,Design,5,4.02,Mid,Mid,Mid
+TR01111,U0023,C025,2023-06-12,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR01112,U0029,C021,2023-11-15,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR01113,U0138,C019,2024-07-18,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01114,U0192,C043,2023-01-15,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01115,U0106,C042,2024-07-19,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01116,U0033,C048,2024-02-22,3703,Data Science,Recorded,Beginner,3703,5,4.19,T005,Programming,1,4.6,High,High,High
+TR01117,U0139,C006,2023-04-06,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR01118,U0151,C019,2023-08-19,5849,Data Science,Live,Intermediate,5849,37,4.25,T016,Business,7,3.53,Low,Low,Low
+TR01119,U0113,C020,2023-04-27,4709,Programming,Live,Advanced,4709,24,4.21,T011,Programming,10,3.64,Low,Low,Low
+TR01120,U0194,C042,2024-04-17,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01121,U0166,C008,2023-05-01,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR01122,U0117,C007,2024-10-25,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01123,U0120,C035,2023-06-07,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR01124,U0097,C010,2024-05-25,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01125,U0164,C031,2023-10-26,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR01126,U0016,C044,2024-06-05,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR01127,U0198,C050,2024-12-23,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01128,U0115,C046,2023-10-07,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR01129,U0081,C016,2024-03-01,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR01130,U0038,C016,2024-05-09,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR01131,U0077,C039,2024-04-28,6348,Data Science,Recorded,Intermediate,6348,25,3.64,T005,Programming,1,4.6,High,High,High
+TR01132,U0074,C043,2023-09-07,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01133,U0194,C043,2024-04-12,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01134,U0112,C023,2024-07-18,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR01135,U0075,C026,2023-05-29,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR01136,U0193,C021,2024-01-28,7619,Marketing,Recorded,Intermediate,7619,17,4.75,T022,Business,10,3.57,Low,Low,Low
+TR01137,U0139,C012,2023-07-15,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR01138,U0020,C028,2024-09-05,8576,Marketing,Recorded,Advanced,8576,9,4.22,T025,Design,14,3.89,Low,Low,Low
+TR01139,U0152,C002,2024-06-04,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR01140,U0034,C012,2023-05-20,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR01141,U0179,C008,2023-03-13,8419,Marketing,Recorded,Advanced,8419,28,4.07,T013,Business,10,3.97,Low,Low,Low
+TR01142,U0080,C034,2023-10-10,4627,Programming,Live,Intermediate,4627,37,4.43,T029,Design,13,4.31,Mid,Mid,Mid
+TR01143,U0154,C010,2024-02-29,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01144,U0033,C007,2023-12-15,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01145,U0037,C002,2024-06-03,9691,Data Science,Live,Advanced,9691,16,4.3,T024,Business,2,4.83,High,High,High
+TR01146,U0197,C045,2023-10-01,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01147,U0059,C001,2023-01-03,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR01148,U0025,C018,2023-10-17,5748,Data Science,Recorded,Intermediate,5748,13,3.53,T023,Design,1,4.92,High,High,High
+TR01149,U0056,C030,2023-11-02,1928,Marketing,Live,Intermediate,1928,6,4.68,T003,Business,14,4.49,Mid,Mid,Mid
+TR01150,U0017,C016,2024-08-24,6977,Business,Live,Beginner,6977,31,3.57,T025,Design,14,3.89,Low,Low,Low
+TR01151,U0106,C015,2024-08-16,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR01152,U0105,C010,2024-11-06,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01153,U0025,C017,2024-05-16,5268,Marketing,Live,Beginner,5268,21,3.9,T023,Design,1,4.92,High,High,High
+TR01154,U0120,C038,2023-06-02,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01155,U0098,C040,2024-04-02,7190,Business,Recorded,Beginner,7190,30,4.59,T018,Data Science,12,4.71,High,High,High
+TR01156,U0064,C045,2024-07-05,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01157,U0186,C042,2024-05-10,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01158,U0167,C035,2023-12-20,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR01159,U0042,C036,2023-12-07,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR01160,U0132,C042,2024-07-19,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01161,U0068,C005,2024-07-10,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR01162,U0035,C041,2024-01-22,2256,Programming,Recorded,Intermediate,2256,29,4.32,T028,Business,8,4.25,Mid,Mid,Mid
+TR01163,U0089,C009,2024-04-11,4486,Business,Recorded,Beginner,4486,32,3.86,T030,Programming,5,4.53,High,High,High
+TR01164,U0034,C043,2023-11-26,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01165,U0057,C023,2023-07-13,4072,Design,Recorded,Intermediate,4072,33,4.72,T008,Programming,12,3.74,Low,Low,Low
+TR01166,U0189,C027,2024-12-15,2531,Design,Recorded,Beginner,2531,22,4.38,T024,Business,2,4.83,High,High,High
+TR01167,U0016,C001,2023-09-02,2365,Programming,Recorded,Intermediate,2365,15,4.54,T020,Business,1,4.2,Mid,Mid,Mid
+TR01168,U0079,C047,2024-08-08,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR01169,U0063,C045,2024-01-28,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01170,U0148,C012,2023-08-28,3923,Design,Live,Beginner,3923,30,3.91,T016,Business,7,3.53,Low,Low,Low
+TR01171,U0068,C004,2024-02-25,8494,Marketing,Recorded,Intermediate,8494,36,4.87,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01172,U0106,C050,2023-02-14,9120,Design,Live,Intermediate,9120,10,4.65,T012,Data Science,5,3.64,Low,Low,Low
+TR01173,U0043,C046,2023-11-22,9053,Design,Recorded,Intermediate,9053,38,4.55,T006,Marketing,8,3.57,Low,Low,Low
+TR01174,U0200,C010,2024-04-29,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01175,U0145,C015,2024-12-23,9905,Design,Recorded,Advanced,9905,32,4.64,T015,Marketing,14,3.76,Low,Low,Low
+TR01176,U0119,C013,2024-01-26,6301,Marketing,Live,Advanced,6301,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01177,U0066,C035,2024-01-31,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR01178,U0031,C010,2024-11-10,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01179,U0169,C026,2024-10-29,2214,Programming,Recorded,Advanced,2214,10,4.69,T004,Programming,3,4.15,Mid,Mid,Mid
+TR01180,U0128,C006,2023-06-05,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR01181,U0105,C010,2024-05-22,2810,Data Science,Recorded,Advanced,2810,12,3.81,T011,Programming,10,3.64,Low,Low,Low
+TR01182,U0139,C038,2023-02-07,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01183,U0126,C005,2023-05-10,5312,Business,Recorded,Advanced,5312,20,4.38,T006,Marketing,8,3.57,Low,Low,Low
+TR01184,U0073,C036,2024-05-29,2852,Programming,Recorded,Beginner,2852,22,4.41,T019,Design,5,4.02,Mid,Mid,Mid
+TR01185,U0160,C047,2024-08-27,4330,Business,Live,Beginner,4330,39,4.69,T001,Business,12,4.46,Mid,Mid,Mid
+TR01186,U0062,C035,2023-12-06,7316,Programming,Live,Beginner,7316,5,4.97,T026,Business,6,3.52,Low,Low,Low
+TR01187,U0193,C031,2023-04-13,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR01188,U0066,C007,2024-03-26,4141,Programming,Live,Beginner,4141,16,4.64,T002,Marketing,10,4.28,Mid,Mid,Mid
+TR01189,U0057,C038,2023-04-13,5175,Marketing,Recorded,Advanced,5175,15,4.33,T021,Business,10,4.47,Mid,Mid,Mid
+TR01190,U0182,C045,2024-06-22,4584,Marketing,Recorded,Intermediate,4584,37,4.29,T021,Business,10,4.47,Mid,Mid,Mid
+TR01191,U0143,C011,2024-04-12,7588,Data Science,Live,Beginner,7588,32,3.88,T011,Programming,10,3.64,Low,Low,Low
+TR01192,U0162,C043,2023-01-16,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01193,U0123,C024,2023-05-28,7530,Design,Recorded,Beginner,7530,17,4.95,T004,Programming,3,4.15,Mid,Mid,Mid
+TR01194,U0146,C025,2024-02-24,1504,Business,Recorded,Advanced,1504,39,3.63,T008,Programming,12,3.74,Low,Low,Low
+TR01195,U0048,C044,2024-11-01,4486,Design,Recorded,Advanced,4486,17,3.95,T022,Business,10,3.57,Low,Low,Low
+TR01196,U0094,C031,2023-06-08,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High
+TR01197,U0181,C042,2023-03-18,4376,Design,Live,Beginner,4376,26,4.18,T010,Programming,7,4.01,Mid,Mid,Mid
+TR01198,U0082,C043,2024-04-25,6645,Programming,Live,Intermediate,6645,31,4.87,T029,Design,13,4.31,Mid,Mid,Mid
+TR01199,U0114,C006,2023-09-29,2324,Business,Live,Beginner,2324,12,4.59,T021,Business,10,4.47,Mid,Mid,Mid
+TR01200,U0114,C031,2023-12-13,6029,Data Science,Recorded,Advanced,6029,14,4.46,T027,Marketing,9,4.9,High,High,High

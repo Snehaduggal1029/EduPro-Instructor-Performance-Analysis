@@ -1,0 +1,51 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CoursePrice,CourseDuration,CourseRating,TeacherID
+C001,Programming,Recorded,Intermediate,2365,15,4.54,T020
+C002,Data Science,Live,Advanced,9691,16,4.3,T024
+C003,Business,Live,Advanced,9702,14,4.62,T005
+C004,Marketing,Recorded,Intermediate,8494,36,4.87,T002
+C005,Business,Recorded,Advanced,5312,20,4.38,T006
+C006,Business,Live,Beginner,2324,12,4.59,T021
+C007,Programming,Live,Beginner,4141,16,4.64,T002
+C008,Marketing,Recorded,Advanced,8419,28,4.07,T013
+C009,Business,Recorded,Beginner,4486,32,3.86,T030
+C010,Data Science,Recorded,Advanced,2810,12,3.81,T011
+C011,Data Science,Live,Beginner,7588,32,3.88,T011
+C012,Design,Live,Beginner,3923,30,3.91,T016
+C013,Marketing,Live,Advanced,6301,12,3.81,T011
+C014,Marketing,Recorded,Beginner,5186,32,4.82,T019
+C015,Design,Recorded,Advanced,9905,32,4.64,T015
+C016,Business,Live,Beginner,6977,31,3.57,T025
+C017,Marketing,Live,Beginner,5268,21,3.9,T023
+C018,Data Science,Recorded,Intermediate,5748,13,3.53,T023
+C019,Data Science,Live,Intermediate,5849,37,4.25,T016
+C020,Programming,Live,Advanced,4709,24,4.21,T011
+C021,Marketing,Recorded,Intermediate,7619,17,4.75,T022
+C022,Business,Live,Advanced,9647,32,3.96,T016
+C023,Design,Recorded,Intermediate,4072,33,4.72,T008
+C024,Design,Recorded,Beginner,7530,17,4.95,T004
+C025,Business,Recorded,Advanced,1504,39,3.63,T008
+C026,Programming,Recorded,Advanced,2214,10,4.69,T004
+C027,Design,Recorded,Beginner,2531,22,4.38,T024
+C028,Marketing,Recorded,Advanced,8576,9,4.22,T025
+C029,Programming,Recorded,Advanced,1823,29,4.13,T003
+C030,Marketing,Live,Intermediate,1928,6,4.68,T003
+C031,Data Science,Recorded,Advanced,6029,14,4.46,T027
+C032,Programming,Recorded,Beginner,1133,34,4.71,T029
+C033,Design,Live,Intermediate,3105,9,4.85,T018
+C034,Programming,Live,Intermediate,4627,37,4.43,T029
+C035,Programming,Live,Beginner,7316,5,4.97,T026
+C036,Programming,Recorded,Beginner,2852,22,4.41,T019
+C037,Programming,Live,Intermediate,5910,36,4.45,T019
+C038,Marketing,Recorded,Advanced,5175,15,4.33,T021
+C039,Data Science,Recorded,Intermediate,6348,25,3.64,T005
+C040,Business,Recorded,Beginner,7190,30,4.59,T018
+C041,Programming,Recorded,Intermediate,2256,29,4.32,T028
+C042,Design,Live,Beginner,4376,26,4.18,T010
+C043,Programming,Live,Intermediate,6645,31,4.87,T029
+C044,Design,Recorded,Advanced,4486,17,3.95,T022
+C045,Marketing,Recorded,Intermediate,4584,37,4.29,T021
+C046,Design,Recorded,Intermediate,9053,38,4.55,T006
+C047,Business,Live,Beginner,4330,39,4.69,T001
+C048,Data Science,Recorded,Beginner,3703,5,4.19,T005
+C049,Design,Recorded,Beginner,9662,25,4.76,T009
+C050,Design,Live,Intermediate,9120,10,4.65,T012
